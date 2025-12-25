@@ -1,0 +1,7 @@
+{
+  "name": "VoiceMirror AI",
+  "description": "A high-performance text-to-voice application leveraging Gemini 2.5 Native Audio for real-time conversations and custom voice-styled voiceovers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
